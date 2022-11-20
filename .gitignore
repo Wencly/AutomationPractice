@@ -1,0 +1,6 @@
+# Disble node modules
+node_modules
+node_modules/
+cypress/videos/
+cypress/screenshots
+cypress/downloads

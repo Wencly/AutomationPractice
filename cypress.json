@@ -1,7 +1,4 @@
 {
     "baseUrl": "https://demoqa.com",
-    "env": {
-
-    },
     "testFiles": "**/*.spec.js"
 }
